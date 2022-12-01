@@ -1,0 +1,4 @@
+hi this is devops and aws tutorial
+ls for list of all files
+cd change directory
+
