@@ -1,4 +1,9 @@
 hi this is devops and aws tutorial
 ls for list of all files
 cd change directory
-
+pwd present working directory
+git init 
+git add . to add all the files 
+git commit to save the file 
+git push - to push contexts of the file local to the remote repository
+git clone to clone the repository
